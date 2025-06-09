@@ -1,0 +1,7 @@
+[project]
+name = "python-scaffold-template"
+version = "0.1.0"
+description = "Python 项目脚手架模板，提供基础的工程化目录布局。"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
