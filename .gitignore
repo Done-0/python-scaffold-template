@@ -1,11 +1,16 @@
 # Python bytecode
 __pycache__/
+*/__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+*.pyc
+*.pyo
+*.pyd
 
-# 虚拟环境
+# virtual environments
 .env
 .venv
 env/
